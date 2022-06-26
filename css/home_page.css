@@ -1,0 +1,91 @@
+nav .navbar-collapse ul{
+    margin-left: auto !important;
+}
+ 
+.heroText h1{
+    text-shadow: 3px 3px gray;
+}
+.overlay{
+    background: rgba(128,142,176, 0.1) !important;
+}
+
+.header-content{
+    justify-content: space-between;
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+}
+
+.row-content{
+    padding: 1rem;
+    margin: 0 auto !important;
+}
+.side-text p{
+    color: white;
+    text-shadow: 3px 3px gray;
+    font-weight: bold;
+    font-size: 1.6rem;
+    margin-bottom: 0;
+}
+
+.large-txt{
+    font-size: 2.5rem;
+}
+
+.top-txt{
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+cite{
+    padding-left: 1rem;
+}
+.home .pricing-plan{
+    margin-top: 3rem;
+    border-radius: 50%;
+    opacity: 0.9;
+}
+
+.pricing-plan::hover{
+    opacity: 1;
+}
+
+.pricing-name{
+    margin: auto !important;
+}
+
+.pricing-name h4, i{
+    color: white;
+}
+
+.blog1{
+    background-image: url('../images/special/blog-1.jpg');
+    background-size: 100%;
+}
+
+.blog2{
+    background-image: url('../images/special/blog-2.jpg');
+    background-size: 100%;
+}
+
+.blog3{
+    background-image: url('../images/special/blog-3.jpg');
+    background-size: 100%;
+}
+
+.blog4{
+    background-image: url('../images/special/blog-4.jpg');
+    background-size: 100%;
+}
+
+.blog5{
+    background-image: url('../images/special/blog-5.jpg');
+    background-size: 100%;
+}
+.blog6{
+    background-image: url('../images/special/blog-1.jpg');
+    background-size: 100%;
+}
